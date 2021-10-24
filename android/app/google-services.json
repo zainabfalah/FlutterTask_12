@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480029743769",
+    "project_id": "fooder-8c0ea",
+    "storage_bucket": "fooder-8c0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480029743769:android:f94437305a14642f897608",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480029743769-5tubd2nm9sbc520q3n03ctm20kbjc6eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpdku-8G4CcMvK1F7WkBKT0lejwJQedmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480029743769-5tubd2nm9sbc520q3n03ctm20kbjc6eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
